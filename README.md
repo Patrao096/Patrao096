@@ -1,25 +1,26 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b5d6f&height=200&section=header&text=Victor%20Iris&fontSize=50&animation=fadeIn">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&secondaryColor=3a7bd5&height=200&section=header&text=Victor%20Iris&fontSize=50&animation=fadeIn&fontAlignY=35">
 </div>
 
 <div align="center">
-  <h2> 🚀 Olá! Eu sou victor_oficial1_ </h2>
-  <p>🔭 Trabalhando com desenvolvimento de bots para Discord | 🌱 Estudando JavaScript</p>
+  <h2> 🚀 Olá! Eu sou Victor | Estudante de ADS </h2>
+  <p><b>Focado em se tornar Desenvolvedor Full Stack</b></p>
+  <p>🔭 Atualmente desenvolvendo bots para Discord e estudando Ecossistema JavaScript</p>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Patrao096&show_icons=true&theme=radical&title_color=7b5d6f&icon_color=7b5d6f&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Patrao096&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&hide_border=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=radical&title_color=7b5d6f&hide_border=true&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&title_color=00d2ff&hide_border=true&hide=html,css" />
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrao096&theme=radical&hide_border=true&stroke=7b5d6f" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrao096&theme=tokyonight&fire=00d2ff&sideNums=00d2ff&hide_border=true" alt="Streak Stats" />
 </div>
 
 <hr>
 
-### 🛠️ Minhas Tecnologias
+### 🛠️ Stack Tecnológica (Full Stack Path)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,postgres,arduino,git,python,java,figma,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,postgres,python,java,cpp,git,figma,arduino&theme=dark" />
 </div>
 
 <hr>
@@ -27,31 +28,30 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>📫 Vamos nos conectar?</b>
       </samp>
   </summary>
 <br>
 
 <div align="center">
-  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-7b5d6f?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vctriris2015@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-7b5d6f?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/victor_oficial1_)
-  [![Discord](https://img.shields.io/badge/Discord-7b5d6f?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/Pf9RtugP)
-  [![YouTube](https://img.shields.io/badge/YouTube-7b5d6f?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VictorIrisMusic/)
+  [![Gmail](https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=000)](mailto:vctriris2015@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-00d2ff?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/victor_oficial1_)
+  [![Discord](https://img.shields.io/badge/Discord-00d2ff?style=for-the-badge&logo=discord&logoColor=000)](https://discord.gg/Pf9RtugP)
+  [![YouTube](https://img.shields.io/badge/YouTube-00d2ff?style=for-the-badge&logo=youtube&logoColor=000)](https://www.youtube.com/@VictorIrisMusic/)
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="80%">
+  <img src="https://github.com/Patrao096/Patrao096/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="80%">
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=Perfil%20Visto%20Por&color=7b5d6f&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=PERFIL+VISUALIZADO&color=00d2ff&style=flat-square" />
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7b5d6f&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00d2ff&secondaryColor=3a7bd5&section=footer"/>
 </details>
