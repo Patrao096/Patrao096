@@ -6,8 +6,11 @@
   <h2> 🚀 Olá! Eu sou victor_oficial1_ </h2>
   <p>🔭 Trabalhando com desenvolvimento de bots para Discord | 🌱 Estudando JavaScript</p>
 
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Patrao096&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <img height="170" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <img src="https://metrics.lecoq.io/Patrao096?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&achievements=1&achievements_display=compact&isocalendar=1&isocalendar_duration=half-year&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" width="100%">
+  
+  <br><br>
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&hide=html,css" />
   
   <br><br>
   
@@ -58,3 +61,4 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=23&section=footer"/>
+</details>
