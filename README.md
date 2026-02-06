@@ -48,9 +48,9 @@
   
   <br><br>
   
+  ##
+  ![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
+  ##
+  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00d2ff&secondaryColor=3a7bd5&section=footer"/>
 </div>
-
-##
-
-![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
