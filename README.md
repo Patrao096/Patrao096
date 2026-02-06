@@ -7,9 +7,9 @@
   <p><b>Focado em se tornar Desenvolvedor Full Stack</b></p>
   <p>🔭 Atualmente desenvolvendo bots para Discord e estudando Ecossistema JavaScript</p>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Patrao096&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrao096&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&hide_border=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&title_color=00d2ff&hide_border=true&hide=html,css" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&title_color=00d2ff&hide_border=true&hide=html,css" />
   
   <br><br>
   
@@ -34,7 +34,6 @@
 <br>
 
 <div align="center">
-
   [![Gmail](https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=000)](mailto:vctriris2015@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-00d2ff?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/victor_oficial1_)
   [![Discord](https://img.shields.io/badge/Discord-00d2ff?style=for-the-badge&logo=discord&logoColor=000)](https://discord.gg/Pf9RtugP)
@@ -44,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Patrao096/Patrao096/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="80%">
+  <img src="https://metrics.lecoq.io/Patrao096?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" width="90%">
   
   <br><br>
   
