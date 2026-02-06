@@ -1,27 +1,25 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Victor%20Iris&fontSize=50&animation=fadeIn">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b5d6f&height=200&section=header&text=Victor%20Iris&fontSize=50&animation=fadeIn">
 </div>
 
 <div align="center">
   <h2> 🚀 Olá! Eu sou victor_oficial1_ </h2>
   <p>🔭 Trabalhando com desenvolvimento de bots para Discord | 🌱 Estudando JavaScript</p>
 
-  <img src="https://metrics.lecoq.io/Patrao096?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&achievements=1&achievements_display=compact&isocalendar=1&isocalendar_duration=half-year&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" width="100%">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Patrao096&show_icons=true&theme=radical&title_color=7b5d6f&icon_color=7b5d6f&hide_border=true&count_private=true" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=radical&title_color=7b5d6f&hide_border=true&hide=html,css" />
   
   <br><br>
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&hide=html,css" />
-  
-  <br><br>
-  
-  <img width="90%" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrao096&theme=zenburn"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrao096&theme=radical&hide_border=true&stroke=7b5d6f" alt="Streak Stats" />
 </div>
 
 <hr>
 
 ### 🛠️ Minhas Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,postgres,arduino,git,python,java,figma,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,postgres,arduino,git,python,java,figma,matlab&theme=dark" />
 </div>
 
 <hr>
@@ -34,18 +32,13 @@
   </summary>
 <br>
 
-##
-
-<br>
-
 <div align="center">
   <br>
-  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vctriris2015@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/victor_oficial1_)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/Pf9RtugP)
-  [![youtube](https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@VictorIrisMusic/)
+  [![Gmail](https://img.shields.io/badge/Gmail-7b5d6f?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vctriris2015@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-7b5d6f?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/victor_oficial1_)
+  [![Discord](https://img.shields.io/badge/Discord-7b5d6f?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/Pf9RtugP)
+  [![YouTube](https://img.shields.io/badge/YouTube-7b5d6f?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VictorIrisMusic/)
 </div>
 
 <br>
@@ -55,10 +48,10 @@
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=Perfil%20Visto%20Por&color=7f9f7f&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=Perfil%20Visto%20Por&color=7b5d6f&style=flat-square" />
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7b5d6f&section=footer"/>
 </details>
