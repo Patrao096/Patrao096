@@ -7,50 +7,46 @@
   <p><b>Focado em se tornar Desenvolvedor Full Stack</b></p>
   <p>🔭 Atualmente desenvolvendo bots para Discord e estudando Ecossistema JavaScript</p>
 
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrao096&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&hide_border=true&count_private=true" />
-  
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&title_color=00d2ff&hide_border=true&hide=html,css" />
-  
-  <br><br>
-  
+  <br>
+
+  <table>
+    <tr>
+      <td><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrao096&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&hide_border=true&count_private=true" /></td>
+      <td><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrao096&layout=compact&theme=tokyonight&title_color=00d2ff&hide_border=true&hide=html,css" /></td>
+    </tr>
+  </table>
+
+  <br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrao096&theme=tokyonight&fire=00d2ff&sideNums=00d2ff&hide_border=true" alt="Streak Stats" />
 </div>
 
 <hr>
 
-### 🛠️ Stack Tecnológica (Full Stack Path)
 <div align="center">
+  <h3>🛠️ Stack Tecnológica (Full Stack Path)</h3>
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,postgres,python,java,cpp,git,figma,arduino&theme=dark" />
 </div>
 
 <hr>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>📫 Vamos nos conectar?</b>
-      </samp>
-  </summary>
-<br>
-
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=000)](mailto:vctriris2015@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-00d2ff?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/victor_oficial1_)
-  [![Discord](https://img.shields.io/badge/Discord-00d2ff?style=for-the-badge&logo=discord&logoColor=000)](https://discord.gg/Pf9RtugP)
-  [![YouTube](https://img.shields.io/badge/YouTube-00d2ff?style=for-the-badge&logo=youtube&logoColor=000)](https://www.youtube.com/@VictorIrisMusic/)
+  <details>
+    <summary><b>📫 Vamos nos conectar? (Clique aqui)</b></summary>
+    <br>
+    <a href="mailto:vctriris2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=000" alt="Gmail"></a>
+    <a href="https://instagram.com/victor_oficial1_"><img src="https://img.shields.io/badge/Instagram-00d2ff?style=for-the-badge&logo=instagram&logoColor=000" alt="Instagram"></a>
+    <a href="https://discord.gg/Pf9RtugP"><img src="https://img.shields.io/badge/Discord-00d2ff?style=for-the-badge&logo=discord&logoColor=000" alt="Discord"></a>
+    <a href="https://www.youtube.com/@VictorIrisMusic/"><img src="https://img.shields.io/badge/YouTube-00d2ff?style=for-the-badge&logo=youtube&logoColor=000" alt="YouTube"></a>
+  </details>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Patrao096?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" width="90%">
+  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=PERFIL+VISUALIZADO&color=00d2ff&style=flat-square" />
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=Patrao096&label=PERFIL+VISUALIZADO&color=00d2ff&style=flat-square" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00d2ff&secondaryColor=3a7bd5&section=footer"/>
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00d2ff&secondaryColor=3a7bd5&section=footer"/>
-</details>
